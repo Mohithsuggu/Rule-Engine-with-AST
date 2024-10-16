@@ -1,4 +1,4 @@
-Here's a `README.md` file for your project:
+
 
 ```markdown
 # Rule Engine with Abstract Syntax Tree (AST)
@@ -33,7 +33,7 @@ To use this project, simply clone the repository and install any necessary depen
 ```bash
 git clone <[repository-url](https://github.com/Mohithsuggu/Rule-Engine-with-AST)>
 cd <Rule-Engine-with-AST>
-# No specific dependencies for this example
+
 ```
 
 ## Usage
@@ -101,10 +101,3 @@ Feel free to submit issues or pull requests if you'd like to contribute to this 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Instructions
-
-1. Replace `<repository-url>` and `<repository-directory>` with your actual repository URL and directory name.
-2. Adjust any sections as necessary to better fit your project's specifics or additional features.
-3. Save this content in a file named `README.md` at the root of your project directory.
