@@ -31,8 +31,8 @@ class Node:
 To use this project, simply clone the repository and install any necessary dependencies:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone <[repository-url](https://github.com/Mohithsuggu/Rule-Engine-with-AST)>
+cd <Rule-Engine-with-AST>
 # No specific dependencies for this example
 ```
 
